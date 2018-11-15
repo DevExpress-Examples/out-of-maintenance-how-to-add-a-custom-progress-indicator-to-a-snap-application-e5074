@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/CustomProgressIndicator/Form1.cs) (VB: [Form1.vb](./VB/CustomProgressIndicator/Form1.vb))
+* [MyProgressIndicationForm.cs](./CS/CustomProgressIndicator/MyProgressIndicationForm.cs) (VB: [MyProgressIndicationForm.vb](./VB/CustomProgressIndicator/MyProgressIndicationForm.vb))
+* [MyProgressIndicationService.cs](./CS/CustomProgressIndicator/MyProgressIndicationService.cs) (VB: [MyProgressIndicationService.vb](./VB/CustomProgressIndicator/MyProgressIndicationService.vb))
+<!-- default file list end -->
 # How to add a custom progress indicator to a Snap application
 
 
