@@ -12,6 +12,9 @@
 <!-- default file list end -->
 # How to add a custom progress indicator to a Snap application
 
+> **Note**
+>
+> As you may already know, the [WinForms Snap control](https://docs.devexpress.com/WindowsForms/11373/controls-and-libraries/snap) and [Snap Report API](https://docs.devexpress.com/OfficeFileAPI/15188/snap-report-api) are now in maintenance support mode. No new features or capabilities are incorporated into these products. We recommend that you use [DevExpress Reporting](https://docs.devexpress.com/XtraReports/2162/reporting) tool to generate, edit, print, and export your business reports/documents.
 
 <p>This example demonstrates how to indicate the document creation progress in a Snap application.</p><p>After running this example, click <strong>Finish&Merge</strong> on the <a href="http://documentation.devexpress.com/#WindowsForms/CustomDocument16496"><u>Data Tools: Mail Merge</u></a> toolbar and select a format to publish the document.</p><br />
 
